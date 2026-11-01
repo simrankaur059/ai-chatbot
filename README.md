@@ -2,8 +2,7 @@
 
 A conversational web app built with **Streamlit**, **LangGraph** and **LangChain**, powered by OpenAI models. It streams replies token by token, remembers each conversation, and lets you change the model and temperature from a sidebar.
 
-**Author:** Simranpreet Kaur (UID: 26MCA20040, Class: 26MCA 1B)
-**Faculty:** Munish Kumar (E16513)
+
 
 ## Features
 
